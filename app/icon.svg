@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="PathPilot AI">
+  <rect width="64" height="64" rx="16" fill="#1f4d3f" />
+  <circle cx="30" cy="33" r="15" fill="none" stroke="#f8f6ef" stroke-width="3" />
+  <path d="M37.5 25.5 33.5 35 24 39 28 29.5Z" fill="#f8f6ef" />
+  <circle cx="46" cy="18" r="5" fill="#5ec98a" />
+</svg>
